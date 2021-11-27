@@ -1,5 +1,5 @@
 # one
-An android app to chech for the availability of blood in your city.
+An android app to check for the availability of blood in your city.
 Using this app requests can also be made for the type of blood group required by the user.
 It is a very intuitive app .
 A free webhost hotstringer was used .
