@@ -5,4 +5,4 @@ It is a very intuitive app .
 A free webhost hotstringer was used .
 I didnt use firebase as I wanted to learn more about hosting app on a less optimised source.
 Please change the webhost to your the desired host.
-I will add a PPT soon so that the app becomes clear to understand.
+I will add a PPT soon so the app becomes clear to understand.
