@@ -1,5 +1,4 @@
-package com.akhil
-.bloodbank;
+package com.akhil.bloodbank;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;
@@ -23,6 +22,6 @@ public class ExampleInstrumentedTest {
     // Context of the app under test.
     Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-    assertEquals("com.rishabh.bloodbank", appContext.getPackageName());
+    assertEquals("com.akhil.bloodbank", appContext.getPackageName());
   }
 }
